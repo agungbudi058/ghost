@@ -2,3 +2,5 @@ streamlit
 os
 sys
 subprocess
+pygame
+random
